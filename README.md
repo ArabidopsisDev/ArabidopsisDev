@@ -12,28 +12,28 @@ I like .Net most :D.<br><br>
 To be honest,as a student,I can't work very much.This is my overview.
 <p align="center">
   <a href="https://github.com/ArabidiosisDev" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArabidiosisDev&title_color=333&text_color=777" alt="MethodBox's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ArabidopsisDev&title_color=333&text_color=777" alt="MethodBox's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=ArabidiosisDev&hide=issues&title_color=333&text_color=777" alt="MethodBox's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ArabidopsisDev&hide=issues&title_color=333&text_color=777" alt="MethodBox's Stats" >
     -->
   </a>
 </p>
 <p>
     <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/ArabidiosisDev">
+  <a href="https://github.com/ArabidopsisDev">
     <img src="https://badges.strrl.dev/visits/MethodBoxAwA/MethodBoxAwA?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/ArabidiosisDev">
+  <a href="https://github.com/ArabidopsisDev">
     <img src="https://badges.strrl.dev/years/MethodBoxAwA?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/ArabidiosisDev?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/MethodBoxAwA?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/repos/ArabidopsisDev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/ArabidiosisDev">
-    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/gists/ArabidopsisDev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/ArabidiosisDev">
-    <img src="https://badges.strrl.dev/commits/monthly/MethodBoxAwA?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/commits/monthly/ArabidopsisDev?style=flat-square&color=black&logo=github">
   </a>
 </p>
