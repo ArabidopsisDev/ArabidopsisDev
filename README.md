@@ -12,9 +12,9 @@ I like .Net most :D.<br><br>
 To be honest,as a student,I can't work very much.This is my overview.
 <p align="center">
   <a href="https://github.com/ArabidiosisDev" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=MethodBoxAwA&title_color=333&text_color=777" alt="MethodBox's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ArabidiosisDev&title_color=333&text_color=777" alt="MethodBox's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=MethodBoxAwA&hide=issues&title_color=333&text_color=777" alt="MethodBox's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ArabidiosisDev&hide=issues&title_color=333&text_color=777" alt="MethodBox's Stats" >
     -->
   </a>
 </p>
