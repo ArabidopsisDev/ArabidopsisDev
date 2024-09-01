@@ -1,6 +1,8 @@
 # Hello,Nice to meet you!
-This is MethodBox ,a student of Shandong Agricultural University,I enjoy development.<br>
-If you want to play with me,try add group **197257459** in QQ.
+Hello! I am Arabidopsis, studying Crop Science at the College of Agriculture, Shandong Agricultural University.<br>
+I often use C# for development, especially in the fields of Winform and WPF.<br>
+If you want to discuss with me,pls try add group **197257459** in QQ.
+
 ## My code using
 I like .Net most :D.<br><br>
 ![1](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)  
