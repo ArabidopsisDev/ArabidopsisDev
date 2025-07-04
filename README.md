@@ -1,5 +1,5 @@
 <h2> Hi, I'm Arabidopsis! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://cdn.luogu.com.cn/upload/image_hosting/jqgebv47.png" width="230">
 <p><em>Study Crop Biology at <a href="http://www.sdau.edu.cn">Shandong Agriculture University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Establisher at <a href="https://methodbox.top">Project MethodBox</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
