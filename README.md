@@ -17,7 +17,8 @@ dynamic arabidopsis = {
   Architecture: ["windows-desktop", "event-driven", "design system pattern"],
   TechCommunities: {
                         SexSlave: "@ArchitektSpeer",
-                        Friends: ["@Zopiclone-main", "@OrigamiGamer", "@Lorkea-x", "@nkanf-dev", ...],
+                        Friends: ["@Zopiclone-main", "@OrigamiGamer",
+                                  "@Lorkea-x", "@nkanf-dev", ...],
                         Organization: "Project MethodBox"
                       },
  PersonalizedSignature: "World.Execute(Me);"
