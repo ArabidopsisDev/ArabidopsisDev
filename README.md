@@ -6,7 +6,7 @@
 [![Bilibili: MethodBox](https://img.shields.io/twitter/follow/MethodBox?style=social)](https://space.bilibili.com/497309497)
 [![GitHub ArabidopsisDev](https://img.shields.io/github/followers/ArabidopsisDev?label=follow&style=social)](https://github.com/arbidopsisdev)
 
-
+Nice to meet you, I am an introverted ISFP, you can find me by joining QQ group **197257459**.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```csharp
@@ -21,7 +21,7 @@ dynamic arabidopsis = {
                                   "@Lorkea-x", "@nkanf-dev", ...],
                         Organization: "Project MethodBox"
                       },
- PersonalizedSignature: "World.Execute(Me);"
+ PersonalizedSignature: "Faster than the light."
 };
 ```
 
