@@ -21,7 +21,7 @@ dynamic arabidopsis = {
                                   "@Lorkea-x", "@nkanf-dev", ...],
                         Organization: "Creation and beyond."
                       },
- PersonalizedSignature: "Faster than the light."
+ PersonalizedSignature: "Creation and beyond."
 };
 ```
 
