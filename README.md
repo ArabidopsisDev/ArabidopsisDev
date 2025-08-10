@@ -19,7 +19,7 @@ dynamic arabidopsis = {
                         SexSlave: "@ArchitektSpeer",
                         Friends: ["@Zopiclone-main", "@OrigamiGamer",
                                   "@Lorkea-x", "@nkanf-dev", ...],
-                        Organization: "Project MethodBox"
+                        Organization: "Creation and beyond."
                       },
  PersonalizedSignature: "Faster than the light."
 };
