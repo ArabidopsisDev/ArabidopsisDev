@@ -6,7 +6,9 @@
 [![Bilibili: MethodBox](https://img.shields.io/twitter/follow/MethodBox?style=social)](https://space.bilibili.com/497309497)
 [![GitHub ArabidopsisDev](https://img.shields.io/github/followers/ArabidopsisDev?label=follow&style=social)](https://github.com/arbidopsisdev)
 
-Nice to meet you, I am an introverted ISFP, you can find me by joining QQ group **197257459**.
+It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently engaged in spectral research for smart agriculture.
+
+I'm an introverted ISFP (Independent Science Professional Programmer) with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```csharp
@@ -25,9 +27,19 @@ dynamic arabidopsis = {
 };
 ```
 
+I am an **engineering-oriented developer** who loves programming, especially the following:
+- 🤖 Application of AI Agent & GUI technology
+- 🖥️ The underlying design logic of programming languages
+- 🪖 Military, political and grand strategy games
+
+### 📫 Correspondence
+- 📧 e-mail: arab@methodbox
+- 🐧 qq group: 197257459
+- 📺 bilibili: @MethodBox
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   <br><br> 
-    <strong>Check out my work below!</strong>
+    <strong>💼 Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/ArabidopsisDev">
     <img src="https://badges.strrl.dev/visits/MethodBoxAwA/MethodBoxAwA?style=flat-square&color=black&logo=github">
