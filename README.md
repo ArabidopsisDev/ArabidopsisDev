@@ -6,9 +6,9 @@
 [![Bilibili: MethodBox](https://img.shields.io/twitter/follow/MethodBox?style=social)](https://space.bilibili.com/497309497)
 [![GitHub ArabidopsisDev](https://img.shields.io/github/followers/ArabidopsisDev?label=follow&style=social)](https://github.com/arbidopsisdev)
 
-It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently engaged in spectral research for smart agriculture.
+It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently working on SRT projects related to the spectrum of smart agriculture.
 
-I'm an introverted ISFP (Independent Science Professional Programmer) with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
+I'm an introverted ISFP with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```csharp
@@ -57,3 +57,5 @@ I am an **engineering-oriented developer** who loves programming, especially the
     <img src="https://badges.strrl.dev/commits/monthly/ArabidopsisDev?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+<code>Low coupling, high cohesion.</code>
