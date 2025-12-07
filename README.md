@@ -9,16 +9,17 @@
 It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently working on SRT projects related to the spectrum of smart agriculture.
 
 I'm an introverted ISFP with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
+
+I have passed the National Computer Technology and Software Professional Qualification Examination and obtained the Software Designer qualification. I am proficient in developing desktop applications with elegant UIs using C# and WPF, as well as developing industrial control HMI applications based on the Modbus protocol. I welcome opportunities to collaborate!
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```csharp
 dynamic arabidopsis = {
   Pronouns: {"he" | "him"},
   Code: [CSharp, Python, Java, C++],
-  Tools: [Algorithm, WPF, ASP.net Core, Winforms, UWP],
-  Architecture: ["windows-desktop", "event-driven", "design system pattern"],
+  Tools: [Algorithm, WPF, Winforms, UWP],
+  Architecture: ["windows-desktop", "event-driven", "mvvm"],
   TechCommunities: {
-                        SexSlave: "@ArchitektSpeer",
                         Friends: ["@Zopiclone-main", "@OrigamiGamer",
                                   "@Lorkea-x", "@nkanf-dev", ...],
                         Organization: "Project MethodBox."
@@ -28,12 +29,12 @@ dynamic arabidopsis = {
 ```
 
 I am an **engineering-oriented developer** who loves programming, especially the following:
-- 🤖 Application of AI Agent & GUI technology
-- 🖥️ The underlying design logic of programming languages
+- 🤖 Developing desktop applications that integrate cutting-edge technologies
+- 🖥️ Modern industrial control HMI software development
 - 🪖 Military, political and grand strategy games
 
 ### 📫 Correspondence
-- 📧 e-mail: arab@methodbox
+- 📧 e-mail: arab@methodbox.top
 - 🐧 qq group: 197257459
 - 📺 bilibili: @MethodBox
 
