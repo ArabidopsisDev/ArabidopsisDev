@@ -6,6 +6,14 @@
 [![Bilibili: MethodBox](https://img.shields.io/twitter/follow/MethodBox?style=social)](https://space.bilibili.com/497309497)
 [![GitHub ArabidopsisDev](https://img.shields.io/github/followers/ArabidopsisDev?label=follow&style=social)](https://github.com/arbidopsisdev)
 
+> *viva la vida* — Free exploration is a hymn to life.
+
+- Undergraduate Student, College of Agronomy, Shandong Agricultural University
+- Certified Software Designer (China Computer Technology Qualification Certificate - Intermediate Level)
+- Independent developer | Seed Science and Engineering major
+
+### 🧑‍🌾 Nice to meet you!
+
 It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently working on SRT projects related to the spectrum of smart agriculture.
 
 I'm an introverted ISFP with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
@@ -17,8 +25,8 @@ I have passed the National Computer Technology and Software Professional Qualifi
 dynamic arabidopsis = {
   Pronouns: {"he" | "him"},
   Code: [CSharp, Python, Java, C++],
-  Tools: [Algorithm, WPF, Winforms, UWP],
-  Architecture: ["windows-desktop", "event-driven", "mvvm"],
+  Tools: [Algorithm, WPF, Winforms],
+  FocusAreas: ["windows-desktop", "event-driven", "mvvm", "machine-learning"],
   TechCommunities: {
                         Friends: ["@Zopiclone-main", "@OrigamiGamer",
                                   "@Lorkea-x", "@nkanf-dev", ...],
@@ -58,5 +66,3 @@ I am an **engineering-oriented developer** who loves programming, especially the
     <img src="https://badges.strrl.dev/commits/monthly/ArabidopsisDev?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
-<code>Low coupling, high cohesion.</code>
