@@ -24,8 +24,8 @@ I have passed the National Computer Technology and Software Professional Qualifi
 ```csharp
 dynamic arabidopsis = {
   Pronouns: {"he" | "him"},
-  Code: [CSharp, Python, Java, C++],
-  Tools: [Algorithm, WPF, Winforms],
+  Code: [CSharp, Python, Java],
+  Tools: [Algorithm, WPF, Winforms, Avalonia],
   FocusAreas: ["windows-desktop", "event-driven", "mvvm", "machine-learning"],
   TechCommunities: {
                         Friends: ["@Zopiclone-main", "@OrigamiGamer",
@@ -36,10 +36,10 @@ dynamic arabidopsis = {
 };
 ```
 
-I am an **engineering-oriented developer** who loves programming, especially the following:
+I am an **engineering-oriented developer** who loves programming, and focus on building stable and reusable solutions. especially the following:
 - 🤖 Developing desktop applications that integrate cutting-edge technologies
 - 🖥️ Modern industrial control HMI software development
-- 🪖 Military, political and grand strategy games
+- 🪖 Military, political and play grand strategy games like *Stellaris*
 
 ### 📫 Correspondence
 - 📧 e-mail: arab@methodbox.top
