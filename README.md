@@ -14,7 +14,7 @@
 
 ### 🧑‍🌾 Nice to meet you!
 
-It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently working on SRT projects related to the spectrum of smart agriculture.
+It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently working on integrating the SBERT model to address the NLP similarity processing issues in Recite Helper.
 
 I'm an introverted ISFP with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
 
