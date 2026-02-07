@@ -44,7 +44,8 @@ I am an **engineering-oriented developer** who loves programming, and focus on b
 ### 📫 Correspondence
 - 📧 e-mail: arab@methodbox.top
 - 🐧 qq group: 197257459
-- 📺 bilibili: @MethodBox
+- 📺 bilibili: [@MethodBox](https://space.bilibili.com/497309497)
+- 📍 zhihu: [@Arabidopsis](https://www.zhihu.com/people/arabidopsis-58)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   <br><br> 
