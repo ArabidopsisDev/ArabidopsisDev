@@ -36,7 +36,7 @@ dynamic arabidopsis = {
 };
 ```
 
-I am an **engineering-oriented developer** who loves programming, and focus on building stable and reusable solutions. especially the following:
+I am an **engineering-oriented developer** who is passionate about and dedicated to system architecture design. I am also interested in the following:
 - 🤖 Developing desktop applications that integrate cutting-edge technologies
 - 🖥️ Modern industrial control HMI software development
 - 🪖 Military, political and play grand strategy games like *Stellaris*
