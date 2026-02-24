@@ -42,7 +42,8 @@ I am an **engineering-oriented developer** who is passionate about and dedicated
 - 🪖 Military, political and play grand strategy games like *Stellaris*
 
 ### 📫 Correspondence
-- 📧 e-mail: arab@methodbox.top
+- 📧 personal email: arab@methodbox.top
+- 📧 work email: arab@smart-teach.cn
 - 🐧 qq group: 197257459
 - 📺 bilibili: [@MethodBox](https://space.bilibili.com/497309497)
 - 📍 zhihu: [@Arabidopsis](https://www.zhihu.com/people/arabidopsis-58)
