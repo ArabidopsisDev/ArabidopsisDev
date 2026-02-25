@@ -10,6 +10,7 @@
 
 - Undergraduate Student, College of Agronomy, Shandong Agricultural University
 - Certified Software Designer (China Computer Technology Qualification Certificate - Intermediate Level)
+- .NET Architecture Engineer (External Collaborator), *Tianjin Jinghai Huizhi Zhuochuang Cultural Development Co., Ltd.*
 - Independent developer | Seed Science and Engineering major
 
 ### 🧑‍🌾 Nice to meet you!
