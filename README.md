@@ -19,7 +19,8 @@ It's a pleasure to meet you. I'm an undergraduate student at the College of Agri
 
 I'm an introverted ISFP with a passion for object-oriented programming and real-world project development. If you were to ask me why I chose to pursue agriculture in university, there are two reasons: first, I didn't want my interests to become my career; second, I come from a rural background and have an indescribable love for the land.
 
-I have passed the National Computer Technology and Software Professional Qualification Examination and obtained the Software Designer qualification. I am proficient in developing desktop applications with elegant UIs using C# and WPF, as well as developing industrial control HMI applications based on the Modbus protocol. I welcome opportunities to collaborate!
+I have passed the National Computer Technology and Software Professional Qualification Examination and obtained the Software Designer qualification. I am proficient in developing desktop applications with elegant UIs using C# and WPF, as well as developing industrial control HMI applications based on the Modbus protocol, full-Stack Development from ESP32 to Host Software. And I am currently utilizing WPF and modern C# architectures to optimize the code quality of industrial control software, striving to challenge the stereotype among developers regarding the poor code quality often associated with HMI engineers. I welcome opportunities to collaborate!
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```csharp
