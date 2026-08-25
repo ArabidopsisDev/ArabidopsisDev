@@ -13,6 +13,8 @@
 - .NET Architecture Engineer (External Collaborator), *Tianjin Jinghai Huizhi Zhuochuang Cultural Development Co., Ltd.*
 - Independent developer | Seed Science and Engineering major
 
+ ![GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=arabidopsisdev&style=vercel-lines&theme=dark)
+
 ### 🧑‍🌾 Nice to meet you!
 
 It's a pleasure to meet you. I'm an undergraduate student at the College of Agriculture, Shandong Agricultural University, majoring in Seed Science and Engineering (New Agricultural Science Experimental Class). Currently working on integrating the SBERT model to address the NLP similarity processing issues in Recite Helper.
